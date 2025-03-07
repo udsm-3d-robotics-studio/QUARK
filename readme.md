@@ -2,7 +2,7 @@
 
 ## 💡 **🚀 QUARK – Bootcamp Project Research Task: Building an Automatic Deployment Platform** 🚀  
 
-Hey everyone! 👋🏽 Today, we officially kick off research for **Project QUARK**, an open-source **Automatic Deployment Platform** designed to make deploying our FastAPI projects seamless and automated!  
+Hey everyone! 👋🏽 Today, we officially kick off research for **Project QUARK**, an open-source **Automatic Deployment Platform** designed to make deploying our FastAPI projects seamless and automated here in [3D & Robotics lab](https://github.com/udsm-3d-robotics-studio)!  
 
 🔥 **Why “QUARK”?**  
 Quarks are the **fundamental building blocks of protons**, just as **QUARK** will be the foundation for automated deployments in our lab and beyond. **We’re solving a real-world challenge—simplifying deployments for ourselves first, with a vision to open-source it for others facing the same problem!**  
